@@ -1,0 +1,3 @@
+post-build=Lenovo/kingdom_row/kingdom_row:6.0.1/MOB31E/a4409bcd3f:userdebug/test-keys
+post-timestamp=1473476156
+pre-device=kingdom_row
